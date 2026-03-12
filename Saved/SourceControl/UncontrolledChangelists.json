@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/2400457/Group13Project/Content/Brandon/Bookcase/Book/BP_Book.uasset",
 				"D:/2400457/Group13Project/Content/BP_MainCameraPawn.uasset",
 				"D:/2400457/Group13Project/Content/Brandon/Bookcase/BP_Bookcase.uasset",
@@ -17,6 +18,10 @@
 				"D:/2400457/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/FF/TSRJNGIS01OH0JMB7UBNJ9.uasset",
 				"D:/2400457/Group13Project/Content/Brandon/Bookcase/Book/Lvl_Book.umap",
 				"D:/2400457/Group13Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+=======
+				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/BP_InventoryComponent.uasset",
+				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/BP_PopUpComponent.uasset",
+>>>>>>> main
 				"D:/University/unreal engine projects/Group13Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/University/unreal engine projects/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
 				"D:/University/unreal engine projects/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
