@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/BP_InventoryComponent.uasset",
+				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/BP_PopUpComponent.uasset",
 				"D:/University/unreal engine projects/Group13Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/University/unreal engine projects/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
 				"D:/University/unreal engine projects/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
