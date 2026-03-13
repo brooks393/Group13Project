@@ -7,13 +7,6 @@
 			"files": [
 				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/AC_InventoryComponent.uasset",
 				"D:/rey_h/Group13Project/Content/Rey/Widgets/WBP_Inventory.uasset",
-				"D:/rey_h/Group13Project/Content/Rey/Blueprints/BP_Item.uasset",
-				"D:/rey_h/Group13Project/Content/Rey/ReyTestLevel.umap",
-				"D:/rey_h/Group13Project/Content/Rey/BP_Rey_ThirdPersonCharacter.uasset",
-				"D:/rey_h/Group13Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"D:/rey_h/Group13Project/Content/Rey/Widgets/WBP_ItemSlot.uasset",
-				"D:/rey_h/Group13Project/Content/Rey/Blueprints/S_ItemStructFixed.uasset",
-				"D:/rey_h/Group13Project/Content/Rey/Widgets/WBP_WhatDo.uasset",
 				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/BP_InventoryComponent.uasset",
 				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/BP_PopUpComponent.uasset",
 				"D:/University/unreal engine projects/Group13Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
