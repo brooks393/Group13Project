@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/2400457/Group13/Group13Project/Content/Brandon/LevelDesign/BP_BoxDesign.uasset",
+				"D:/2400457/Group13/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TI/T5D8Y3N0N5E9BJF1XJPY1X.uasset",
+				"D:/2400457/Group13/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/YT/TJ0TMLCLVP7FKWXBDGSPNO.uasset",
+				"D:/2400457/Group13/Group13Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/WK/U3F48BWAXMSP624S1Q8ZYY.uasset",
+				"D:/2400457/Group13/Group13Project/Content/Brandon/LevelDesign/BP_AliceInWonderLand.uasset",
 				"D:/2400457/Group13Project/Content/ThirdPerson/Blueprints/BrandonPerson.uasset",
 				"D:/2400457/Group13Project/Content/Brandon/Bookcase/Book/BP_Book.uasset",
 				"D:/2400457/Group13Project/Content/BP_MainCameraPawn.uasset",
