@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/2302339/Group13Project/Content/Ruari/Blueprints/AC_Shrinking.uasset",
+				"D:/2302339/Group13Project/Content/Ruari/MovingPlatform/BP_MovingPlatform.uasset",
+				"D:/2302339/Group13Project/Content/Ruari/Lvl_Test.umap",
+				"D:/2302339/Group13Project/Content/Ruari/Dialogue/BP_NPC.uasset",
+				"D:/2302339/Group13Project/Content/Ruari/Teleporter/Teleporter.uasset",
+				"D:/2302339/Group13Project/Content/Ruari/Teleporter/Reciever.uasset",
 				"D:/rey_h/Group13Project/Content/Rey/CharacterComponents/AC_InventoryComponent.uasset",
 				"D:/rey_h/Group13Project/Content/Rey/Widgets/WBP_Inventory.uasset",
 				"D:/rey_h/Group13Project/Content/Rey/Blueprints/BP_Item.uasset",
